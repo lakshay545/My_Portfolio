@@ -18,7 +18,7 @@ export const projectsData: Project[] = [
       'A full-stack freelancer marketplace with AI-based job recommendation system. Clients post tasks and freelancers apply for jobs with intelligent matching using skill-based analysis.',
     stack: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Python'],
     category: 'Fullstack',
-    github: 'https://github.com/lakshay545/towntask',
+    github: 'https://github.com/lakshay545/Towntask_project',
     liveDemo: 'https://towntask-project.onrender.com/',
   },
   {
